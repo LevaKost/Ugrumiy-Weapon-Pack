@@ -139,3 +139,4 @@ _NCrunch*
 *.user
 .claude/
 CLAUDE.md
+.vscode/
